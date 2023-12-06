@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Началась подготовка к вальсу выпукников 2024. Смотрите расписание репетиций",
-      "img": "../images/news1.svg",
+      "img": "https://raw.githubusercontent.com/Polina2626/school_last/main/images/news1.svg",
       "date": "2023-12-12",
       "likes": 14,
       "user_liked": false
