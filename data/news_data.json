@@ -10,7 +10,7 @@
     {
         "id": 2,
         "title": "Всероссийский открытый урок по ОБЖ в начальной школе",
-        "img": "../images/news2.svg",
+        "img": "https://raw.githubusercontent.com/Polina2626/school_last/main/images/news2.svg",
         "date": "2023-12-11",
         "likes": 10,
         "user_liked": false
@@ -18,7 +18,7 @@
       {
         "id": 3,
         "title": "Как проходит подготовка к Новому году в каждом классе?",
-        "img": "../images/news3.svg",
+        "img": "https://github.com/Polina2626/school_last/blob/main/images/news3.svg",
         "date": "2023-12-29",
         "likes": 23,
         "user_liked": false
@@ -26,7 +26,7 @@
       {
         "id": 4,
         "title": "Наши 11-классники приняли участие в финале Всеросийского чемпионата сочинений",
-        "img": "../images/news4.svg",
+        "img": "https://github.com/Polina2626/school_last/blob/main/images/news4.svg",
         "date": "2023-12-6",
         "likes": 18,
         "user_liked": false
@@ -34,7 +34,7 @@
       {
         "id": 5,
         "title": "В шестых классах прошли уроки профориентации",
-        "img": "../images/news5.svg",
+        "img": "https://github.com/Polina2626/school_last/blob/main/images/news5.svg",
         "date": "2023-12-8",
         "likes": 21,
         "user_liked": false
@@ -42,7 +42,7 @@
       {
         "id": 6,
         "title": "Итоги голосования за самый вкусный обед в Школе №6",
-        "img": "../images/news6.svg",
+        "img": "https://github.com/Polina2626/school_last/blob/main/images/news6.svg",
         "date": "2023-12-11",
         "likes": 40,
         "user_liked": false
