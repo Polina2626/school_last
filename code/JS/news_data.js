@@ -67,7 +67,7 @@ async function func_sort_popularity() {
 
 
 async function func_sort_date() {
-    let responce = await fetch("../../data/news_data.json");
+    let responce = await fetch("https://github.com/Polina2626/school_last/blob/main/data/news_data.json");
 
     let data = await responce.text();
     data = JSON.parse(data);
